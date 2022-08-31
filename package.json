@@ -11,6 +11,6 @@
   "dependencies": {
     "json2csv": "^4.5.4",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.27"
+    "moment-timezone": "^0.5.35"
   }
 }
